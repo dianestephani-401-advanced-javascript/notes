@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "\"\"",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "\"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianestephani-401-advanced-javascript/notes.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Diane Stephani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianestephani-401-advanced-javascript/notes/issues"
+  },
+  "homepage": "https://github.com/dianestephani-401-advanced-javascript/notes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "minimist": "^1.2.5"
+  }
+}
