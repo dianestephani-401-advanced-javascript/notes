@@ -13,14 +13,14 @@
 
 ### Setup
 
-#### `.env` requirements (where applicable)
+<!-- #### `.env` requirements (where applicable)
 
-i.e.
+i.e. -->
 
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+<!-- - `MONGODB_URI` - URL to the running mongo instance/db -->
 
-#### How to initialize/run your application (where applicable)
+<!-- #### How to initialize/run your application (where applicable)
 
 - e.g. `npm start`
 
@@ -34,4 +34,4 @@ i.e.
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+Link to an image of the UML for your application and response to events -->
