@@ -8,4 +8,4 @@ const notes = require('./lib/notes');
 
 let envelope = input.gimmeDat();
 
-notes.giveMessage(envelope);
+notes.execute(envelope);
