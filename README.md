@@ -2,7 +2,7 @@
 
 ## Project: Notesy
 
-### Author: Diane Stephani
+### Authors: Diane Stephani, Ben Hill, Joe Pennock
 
 ### Links and Resources
 
