@@ -23,8 +23,10 @@
   },
   "homepage": "https://github.com/dianestephani-401-advanced-javascript/notes#readme",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.0.11",
     "express": "^4.17.1",
     "minimist": "^1.2.5",
+    "mongoose": "^5.10.11",
     "yargs": "^16.1.0"
   },
   "devDependencies": {
